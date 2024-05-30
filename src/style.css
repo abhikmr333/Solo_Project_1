@@ -98,3 +98,25 @@ body {
     color: #dcdcdc;
     margin-top: 0;
 }
+
+.footer {
+    background-color: #161619;
+    height: 64px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer img {
+    width: 25px;
+    height: 25px;
+}
+
+.footer img:first-child {
+    margin-left: 50px;
+}
+
+.footer img:last-child {
+    margin-right: 50px;
+}
